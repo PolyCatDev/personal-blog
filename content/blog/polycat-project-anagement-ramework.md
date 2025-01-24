@@ -8,7 +8,7 @@ tags:
   - git
 ---
 # The Core 
-- The core system will center around a git host ( Example: [GitTea](https://about.gitea.com/)) and [Markdown](https://www.markdownguide.org/).
+- The core system will center around a git host (Example: [GitTea](https://about.gitea.com/)) and [Markdown](https://www.markdownguide.org/).
 - The idea is to keep everything as decentralized as possible with minimal hierarchy and a focus on documentation.
 
 > [!Note]
