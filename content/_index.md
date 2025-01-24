@@ -1,5 +1,5 @@
 ---
-description: Home Page of Blog @ JellyCat Cafe
+description: PolyCat's fancy blog
 ---
 # Hi there
 
