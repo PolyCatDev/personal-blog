@@ -1,7 +1,6 @@
-+++
-title = "Index"
-+++
-
+---
+title: Index
+---
 # Hi there
 
 Hi I'm PolyCat and welcome to my blog. Here you will find my ramblings about things I like.
