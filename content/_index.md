@@ -1,5 +1,6 @@
 ---
 title: Home
+description: Home Page of Blog @ JellyCat Cafe
 ---
 # Hi there
 
