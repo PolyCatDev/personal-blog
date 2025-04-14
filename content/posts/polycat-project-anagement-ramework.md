@@ -1,5 +1,5 @@
 ---
-title: PolyCat's Project Management System
+title: PolyCat's Hypothetical Project Management System
 date: 2024-01-23
 description: A general overview for a Git based project management system
 tags:
