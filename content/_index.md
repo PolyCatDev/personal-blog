@@ -15,4 +15,4 @@ Hi I'm PolyCat and welcome to my blog. Here you will find my ramblings about thi
 
 ---
 
-All posts are under the [CC BY](https://creativecommons.org/licenses/by/4.0/) license.
+All posts are under the [CC BY-NC](https://creativecommons.org/licenses/by-nc/4.0/) license.
