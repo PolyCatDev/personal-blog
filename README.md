@@ -1,6 +1,6 @@
-# The JellyCat Cafe Blog
+# PolyCat's Blog
 You found the source for my blog.
 
 ### Notable Mentions
-- [The JellyCat Cafe](https://jellycat.cafe), my personal website
+- [PolyCat's Web Space](https://polycat.space), my personal website
 - [AlterHomeLabs](https://alterhomelabs.org), my friend's personal website
