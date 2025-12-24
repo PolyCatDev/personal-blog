@@ -12,6 +12,8 @@ Recently I watched [this amazing video](https://youtu.be/On9KHaBYzmo) and it got
 
 The video explains it nicely but I still felt the need to put my thoughts down on paper.
 
+Also I've found [this video](https://youtu.be/Jeb_mSOgrVg) that encapsulates my ideas really nicely if you wish more details and a video format.
+
 ## Magic in real life
 
 From what I understand, magic in real life is a blanket term for something you believe in yet has no proof. It's magic because you believe it's true, not because it's proven.
