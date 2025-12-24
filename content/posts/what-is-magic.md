@@ -12,7 +12,7 @@ Recently I watched [this amazing video](https://youtu.be/On9KHaBYzmo) and it got
 
 The video explains it nicely but I still felt the need to put my thoughts down on paper.
 
-Also I've found [this video](https://youtu.be/Jeb_mSOgrVg) that encapsulates my ideas really nicely if you wish more details and a video format.
+Also I've found [this video](https://youtu.be/Jeb_mSOgrVg) that encapsulates my ideas really nicely if you wish more details.
 
 ## Magic in real life
 
